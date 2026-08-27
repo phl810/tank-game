@@ -1,0 +1,17 @@
+{
+  "name": "战机大乱斗",
+  "short_name": "战机大乱斗",
+  "description": "战机大乱斗 · 横屏/竖屏弹幕射击。积分、商店、皮肤、Boss 一应俱全。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05070f",
+  "theme_color": "#00e5ff",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
